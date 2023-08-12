@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Uppunuthula</h1>
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" > </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" > </div>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 - 🔭 I’m currently working on [Snip Ninja](https://github.com/Mahesh-Uppunuthula/Snip-Ninja)
