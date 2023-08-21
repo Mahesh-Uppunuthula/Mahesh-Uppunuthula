@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" > </div>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-- 🔭 I’m currently working on [Snip Ninja](https://github.com/Mahesh-Uppunuthula/Snip-Ninja)
+- 🔭 I’m currently working on [Snippets]
 
 - 🌱 I’m currently learning **React, Node.js (basically full stack [MERN] development)**
 
