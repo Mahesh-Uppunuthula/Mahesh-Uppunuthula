@@ -2,16 +2,18 @@
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" > </div>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-- 🔭 I’m currently working on [Snippets]
 
-- 🌱 I’m currently learning **React, Node.js (basically full stack [MERN] development)**
+- 🔭 I'm creating a tool for **developers** at the moment
+
+- 🌱 I’m currently exploring **ways to strengthen my RESTful API**
 
 - 💬 Ask me about **Java, Web Dev**
 
 - 📫 How to reach me **uppunuthulamahesh312@gmail.com**
 
 - ⚡ Fun fact **Java is my first love ❤️**
-
+ 
+***Note: You will soon be able to witness live versions of the majority of my ✨fascinating projects, which are now private.***
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahesh-uppunuthula-1b8366214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-uppunuthula-1b8366214" height="30" width="40" /></a>
@@ -25,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-uppunuthula&show_icons=true&locale=en&layout=compact" alt="mahesh-uppunuthula" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-uppunuthula&" alt="mahesh-uppunuthula" /></p>
+
