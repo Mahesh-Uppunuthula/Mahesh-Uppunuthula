@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Web Dev**
 
-- 📫 How to reach me **uppunuthulamahesh312@gmail.com**
+- 📫 How to reach me **uppunuthulamahesh312@gmail.com** or via <a href = "https://www.linkedin.com/in/mahesh-uppunuthula-1b8366214/">LinkedIn.</a>
 
 - ⚡ Fun fact **Java is my first love ❤️**
  
