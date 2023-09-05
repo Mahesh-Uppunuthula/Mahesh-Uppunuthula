@@ -5,7 +5,7 @@
 
 - 🔭 I'm creating a tool for **developers** at the moment
 
-- 🌱 I’m currently exploring **ways to strengthen my RESTful API**
+- 🌱 I’m currently exploring **ways to strengthen my REST API** (current project)
 
 - 💬 Ask me about **Java, Web Dev**
 
