@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-- 🔭 I'm creating a tool for **developers** at the moment
+- 🔭 I'm currently building a platform for all the **programmers** and **bloggers**.
 
 - 🌱 I’m currently exploring **ways to strengthen my REST API** (current project)
 
