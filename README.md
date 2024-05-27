@@ -7,7 +7,7 @@ height="30px"  src="https://camo.githubusercontent.com/0c732027af8a28d138e369818
 
 - 🔭 I'm currently working on somthing cool 😉
 
-- 🌱 I'm currently exploring typescript 
+- 🌱 I'm currently exploring **web security**
 
 - 💬 Ask me about **Web Dev**
 
