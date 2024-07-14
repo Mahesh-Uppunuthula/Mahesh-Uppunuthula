@@ -219,7 +219,7 @@ height="30px"  src="https://camo.githubusercontent.com/0c732027af8a28d138e369818
       </div>
       <div align="center">
         ⚠ Note: Top languages is only a metric of the languages my public code
-        consists of and doesn't reflect experience or skill level.
+        consists of and doesn't reflect my experience or skill level.
       </div>
 
       
