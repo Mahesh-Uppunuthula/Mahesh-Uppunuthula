@@ -9,7 +9,7 @@ height="30px"  src="https://camo.githubusercontent.com/0c732027af8a28d138e369818
 
 - 🌱 I'm currently exploring **web security**
 
-- 💬 Ask me about **Web Dev**
+- 💬 Ask me about **Web Dev (React) & (Node.js)**
 
 - 📫 Reach me @ **uppunuthulamahesh312@gmail.com** or via <a href = "https://www.linkedin.com/in/mahesh-uppunuthula-1b8366214/">LinkedIn.</a>
 
